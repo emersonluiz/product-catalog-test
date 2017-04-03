@@ -1,0 +1,17 @@
+{
+	"schema" : [	
+					{"name":"sku", "type":"string", "required": true},
+					{"name":"name", "type":"string", "required": true},
+					{"name":"description", "type":"string", "required": true},
+					{"name":"brand", "type":"string", "required": true},
+					{"name":"product_image_url", "type":"string", "image": true, "required": true},
+					{"name":"price", "type":"double", "required": true},
+					{"name":"special_price", "type":"double", "required": false},
+					{"name":"categories", "type":"array", "required": true},
+					{"name":"size", "type":"mixed", "required": true}
+				]
+}
+
+
+
+    

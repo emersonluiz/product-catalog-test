@@ -1,0 +1,12 @@
+{
+	"sku": "BATMAN-123",
+	"price": "122.99",
+	"name": "Batmobile",
+	"description": "Superhero Car",
+	"size": ["V8", "V12", "V16"],
+	"brand": "Bruce Wayne",
+	"categories": ["Super Heroes", "Flying Cars", "Cars"],
+	"product_image_url": "http://cdn.gfg.com.br/spider-suite.jpg",
+	"special_price": "11.22"
+}
+	
